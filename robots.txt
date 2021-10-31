@@ -1,0 +1,4 @@
+Sitemap: https://propolinse-mouthwash.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
